@@ -1,0 +1,1 @@
+# Oto Przykladowy Readme.md
